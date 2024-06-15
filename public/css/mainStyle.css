@@ -10,6 +10,21 @@ header ul a{
     margin: 5px;
 }
 
+
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scale: .6;
+}
+
+#logoText{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
 .bottomMenu{
     position: sticky;
     bottom: 0;
